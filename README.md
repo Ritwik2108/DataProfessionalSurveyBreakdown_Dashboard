@@ -1,6 +1,6 @@
 Data Professionals Survey Breakdown Dashboard
 
-Overview
+Overview:
 This repository contains the Power BI dashboard built to analyze and visualize key insights from the 2022 Data Professionals Survey. The survey included responses from 630 participants who work in various data-related roles across different industries. This project showcases detailed analysis regarding salary trends, job satisfaction, career challenges, and key demographic information within the data profession.
 
 Key Insights
