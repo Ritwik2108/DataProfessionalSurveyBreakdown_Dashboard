@@ -9,9 +9,10 @@ Salary Trends: Interestingly, women reported higher average salaries than men in
 Career Challenges: Around 25% of the respondents found it challenging to enter the data profession.
 Programming Language Preferences: The dashboard also highlights popular programming languages used by data professionals.
 Work-Life Balance: Insights into job satisfaction, including work-life balance across different job roles.
-Technologies Used
+
+Technologies Used:
 Power BI: Used to build the interactive dashboard and data visualizations.
-SQL: For data extraction, transformation, and loading (ETL) processes (if applicable).
+SQL: For data extraction, transformation, and loading (ETL) processes.
 Data Analysis: Analysis of survey results to extract actionable insights.
 
 How to View the Dashboard:
